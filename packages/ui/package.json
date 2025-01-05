@@ -64,7 +64,7 @@
     "lucide-react": "^0.167.0",
     "next-themes": "^0.2.1",
     "openai": "^4.17.0",
-    "postcss": "^8.4.31",
+    "postcss": "^8.4.49",
     "prop-types": "^15.7.2",
     "react-copy-to-clipboard": "^5.1.0",
     "react-countdown": "^2.3.5",
